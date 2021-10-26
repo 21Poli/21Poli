@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @21Poli
 - 👀 I’m interested in Ultrasonic Guided Wave Tomography
-- 🌱 I’m currently learning Guided Wave Tomography
+- 🌱 I’m currently learning Corrosion Moniroting
 - 💞️ I’m looking to collaborate on GWT
 - 📫 How to reach me, 21037447R@connect.polyu.hk
 
